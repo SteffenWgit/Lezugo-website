@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lezugo.app",
+      "sha256_cert_fingerprints": [
+        "F5:60:50:1C:4E:B1:C5:03:9D:A5:B4:09:70:4E:81:12:31:9E:70:D3:AF:3A:16:C4:3B:48:B8:DB:7E:CA:F5:12"
+      ]
+    }
+  }
+]
